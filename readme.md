@@ -40,19 +40,19 @@ This **Power BI** dashboard provides an in-depth analysis of **mobile phone sale
 
 ## 🖼️ Dashboard Image:
 
-![Mobile Shop Sales Dashboard](https://github.com/BarunChaudhury/Blinkit_Sales_Performance-Dashboard/blob/main/Dashboard%20image.png?raw=true)
+![Mobile Shop Sales Dashboard](https://github.com/BarunChaudhury/Mobile_Sales-Dashboard/blob/main/Mobile%20Sales%20Dashboard%20Image.png?raw=true)
 
 
 
 ## 📂 Files Included:
 
-**📈 Blinkit Dashboard.pbix** – Power BI file containing the dashboard with all visualizations.
+**📈 Mobile Shop Sales Dashboard.pbix** – Power BI file containing the dashboard with all visualizations.
 
-**📊 Blinkit Grocery Data.xlsx** – Raw dataset used for the project.
+**📊 Mobile Sales Data.xlsx** – Raw dataset used for the project.
 
-**📄 Blinkit Dashboard.pdf** – Contains the full dashboard, business requirements and actionable insights.
+**📄 Mobile sales Dashboard.pdf** – Contains the full dashboard, business requirements and actionable insights.
 
-**🖼️ Icons & BG Folder** –   Contains png icons and KPI bg image. 
+**🖼️ Icons Folder** –   Contains png icons for KPIs. 
 
 
 ### 📌 To explore the complete dashboard and SQL script, check the files inside this folder. 
